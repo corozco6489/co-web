@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/co-web/static/js/main.dd7ee8b9.js",
-    "index.html": "/co-web/index.html",
-    "main.dd7ee8b9.js.map": "/co-web/static/js/main.dd7ee8b9.js.map"
+    "main.js": "/static/js/main.bad8877a.js",
+    "index.html": "/index.html",
+    "main.bad8877a.js.map": "/static/js/main.bad8877a.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd7ee8b9.js"
+    "static/js/main.bad8877a.js"
   ]
 }
