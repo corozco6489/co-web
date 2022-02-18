@@ -814,7 +814,7 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../img/cta-bg.jpg") fixed center center;
+    url("../img/assets/img/logo1.png") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -917,7 +917,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: url("../img/counts-bg.jpg") center center no-repeat;
+  background: url("../img/assets/img/logo1.png") center center no-repeat;
   background-size: cover;
   padding: 80px 0 60px 0;
   position: relative;
@@ -925,7 +925,7 @@ section {
 .counts::before {
   content: "";
   position: absolute;
-  background: rgba(17, 17, 17, 0.9);
+  background: rgba(17, 17, 17, 0.7);
   left: 0;
   right: 0;
   top: 0;
@@ -1738,7 +1738,7 @@ section {
   }
 }
 .tabs{
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
   url(../img/assets/img/logo1.png) fixed center center;
 background-size: cover;
 padding: 120px 0;
