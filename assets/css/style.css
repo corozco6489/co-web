@@ -841,7 +841,7 @@ section {
   border-radius: 50px;
 }
 .cta .cta-btn:hover {
-  background: #00b371;
+  background: black;
 }
 @media (max-width: 1024px) {
   .cta {
@@ -1770,4 +1770,46 @@ padding: 120px 0;
 .tabs .tab-pane p:last-child {
   margin-bottom: 0;
   color: white;
+}
+
+
+
+.enviar {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 30px;
+  transition: 0.5s;
+  margin: 10px;
+  background: #f5bf23;
+  color: black;
+  border-radius: 50px;
+  border: 1px solid #f5bf23;
+}
+.enviar:hover {
+  background: black;
+  border: none;
+  color: #f5bf23;
+}
+
+.abajo {
+  position: absolute;
+  bottom: 10px;
+  left: 48%;
+ 
+ 
+}
+.abajo i{
+  width: 50px;
+  animation: arrowBlink 2s infinite;
+  font-size: 50px;
+
+}
+
+@keyframes arrowBlink {
+  100% {
+    opacity: 0;
+  }
 }
