@@ -1747,6 +1747,8 @@ section {
   .tabs .nav-link i {
     font-size: 24px;
   }
+
+
 }
 .tabs{
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
@@ -1823,4 +1825,15 @@ padding: 120px 0;
   100% {
     opacity: 0;
   }
+}
+
+@media (max-width: 575px) {
+  .abajo {
+  
+    left: 42%;
+   
+   
+  }
+
+  
 }
