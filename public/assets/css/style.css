@@ -824,7 +824,7 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../img/assets/img/logo1.png") fixed center center;
+    url("https://images.pexels.com/photos/7245333/pexels-photo-7245333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
