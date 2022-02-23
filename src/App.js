@@ -19,7 +19,7 @@ function App() {
   return (
     <>
     {/* <Topbar/> */}
-    {/* <Header/> */}
+ <Header/> 
     {/* <Hero1/> */}
  <Hero/>  
     <About/>
