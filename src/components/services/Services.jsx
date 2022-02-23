@@ -21,7 +21,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/diseño-arquitectonico.jpg"
+                  src="https://images.pexels.com/photos/271667/pexels-photo-271667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                   className="img-fluid"
                   alt=""
                 />
@@ -51,7 +51,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/estructural.jpg"
+                  src="https://cdn.pixabay.com/photo/2016/11/04/18/44/grid-1798629_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -80,7 +80,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/construcion.jpg"
+                  src="https://cdn.pixabay.com/photo/2019/02/06/16/32/architect-3979490_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -111,7 +111,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/asesoramiento.jpg"
+                  src="https://cdn.pixabay.com/photo/2017/08/02/00/49/people-2569234_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -143,7 +143,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/computer.jpg"
+                  src="https://cdn.pixabay.com/photo/2020/11/13/08/37/pc-5737958_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -158,7 +158,7 @@ export default function Services() {
                   </i>
                 </div>
                 <a href="#" className="stretched-link">
-                  <h3>Servicio Tecnico</h3>
+                  <h3>Servicio Técnico</h3>
                 </a>
                 <p>
                   Mantenimiento Correctivo y Preventivo de Computadoras ,
@@ -177,7 +177,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/cctv-security-technology-with-lock-icon-digital-remix.jpg"
+                  src="https://cdn.pixabay.com/photo/2017/10/12/21/39/cctv-2846083_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -211,7 +211,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/electrician-working.jpg"
+                  src="https://cdn.pixabay.com/photo/2019/05/12/15/07/electric-4198293_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -244,7 +244,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/electronic.jpg"
+                  src="https://cdn.pixabay.com/photo/2015/09/23/15/54/electronics-953932_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -275,7 +275,7 @@ export default function Services() {
             <div className="service-item">
               <div className="img">
                 <img loading="lazy" 
-                  src="assets/img/services/tecnologias.jpg"
+                  src="https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_960_720.jpg"
                   className="img-fluid"
                   alt=""
                 />

@@ -13,13 +13,15 @@ import Portfolio from "./components/portfolio/Portfolio";
 import Services from "./components/services/Services";
 import Tabs from "./components/tabs/Tabs";
 import Team from "./components/team/Team";
-
-
+import Topbar from "./components/topbar/Topbar";
+import Hero1 from "./components/hero1/Hero1";
 function App() {
   return (
     <>
+    {/* <Topbar/> */}
     <Header/>
-    <Hero/>
+    <Hero1/>
+    {/* <Hero/> */}
     <About/>
     {/* <Tabs/> */}
     <Services/>

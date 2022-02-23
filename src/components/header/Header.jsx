@@ -41,7 +41,7 @@ export default function Header() {
             >
               <ul>
                 <li>
-                  <a className="nav-link scrollto active" href="#hero" >
+                  <a className="nav-link scrollto " href="#hero" >
                     Inicio
                   </a>
                 </li>
