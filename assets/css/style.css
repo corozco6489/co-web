@@ -137,7 +137,7 @@ html::-webkit-scrollbar-thumb{
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  width: 300px;
+  width: 400px;
   height: 100px;
 }
 #header .logo a {
@@ -813,7 +813,7 @@ section {
 }
 .services .service-item:hover .details .icon i {
   color: var(--color-primary);
-  color: #f5bf23;
+  color: rgb(245, 191, 35);
 }
 .services .service-item:hover .img img {
   transform: scale(1.2);
@@ -1502,7 +1502,7 @@ section {
   justify-content: center;
 }
 #footer h3 {
-  width: 300px;
+  width: 400px;
   height: 100px; 
   text-align: center;
 }
