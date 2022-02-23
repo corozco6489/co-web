@@ -40,7 +40,7 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
   background: #f5bf23;
 
-  border-radius: 9rem;
+
 }
 
 /*--------------------------------------------------------------
@@ -138,7 +138,7 @@ html::-webkit-scrollbar-thumb{
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
-  width: 300px;
+  width: 400px;
   height: 100px;
 }
 #header .logo a {
@@ -1504,7 +1504,7 @@ section {
 }
 #footer h3 {
   width: 300px;
-  height: 100px; 
+  height: 90px; 
   text-align: center;
 }
 #footer h3 img {

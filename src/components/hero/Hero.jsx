@@ -18,9 +18,9 @@ export default function Hero() {
             <source src="./assets/img/construction.mp4" />
           </video> */}
           <h3>Bienvenido a <strong>Orozco Construcciones </strong></h3>
+          <h1>EMPRESA DE CONSTRUCCIÓN</h1>
 
-         
-          <h2>Te brindamos servicios en proyectos de Construción , Electrónica , Telecomunicaciones y Electricidad</h2>
+          <h2>Te brindamos servicios en proyectos de Construción , Electrónica  y Electricidad</h2>
          
           <a href="#about" className="btn-get-started scrollto">Nosotros</a>
         </div>
