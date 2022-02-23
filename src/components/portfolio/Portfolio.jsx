@@ -41,7 +41,7 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/civil2.jpg"
+                src="assets/img/portfolio/civil2.jpg"
                 className="img-fluid"
                 alt=""
               />
@@ -53,7 +53,7 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/civil3.jpg"
+                src="assets/img/portfolio/civil3.jpg"
                 className="img-fluid"
                 alt=""
               />
@@ -63,6 +63,76 @@ export default function Portfolio() {
             </div>
 
 
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil4.jpg"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Construcción</h4>
+              </div>
+            </div>
+
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil5.jpg"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Remodelación</h4>
+              </div>
+            </div>
+
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil6.jpg"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Mantenimiento</h4>
+              </div>
+            </div>
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil7.jfif"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Construcción</h4>
+              </div>
+            </div>
+
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil2.jpg"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Remodelación</h4>
+              </div>
+            </div>
+
+            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+              <img
+                loading="lazy"
+                src="assets/img/portfolio/civil4.jpg"
+                className="img-fluid"
+                alt=""
+              />
+              <div className="portfolio-info">
+                <h4>Mantenimiento</h4>
+              </div>
+            </div>
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
@@ -78,7 +148,7 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/civil2.jpg"
+                src="assets/img/portfolio/civil6.jpg"
                 className="img-fluid"
                 alt=""
               />
@@ -90,77 +160,7 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/civil3.jpg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Mantenimiento</h4>
-              </div>
-            </div>
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/portfolio/civil1.jpeg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Construcción</h4>
-              </div>
-            </div>
-
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/civil2.jpg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Remodelación</h4>
-              </div>
-            </div>
-
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/civil3.jpg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Mantenimiento</h4>
-              </div>
-            </div>
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/portfolio/civil1.jpeg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Construcción</h4>
-              </div>
-            </div>
-
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/civil2.jpg"
-                className="img-fluid"
-                alt=""
-              />
-              <div className="portfolio-info">
-                <h4>Remodelación</h4>
-              </div>
-            </div>
-
-            <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-              <img
-                loading="lazy"
-                src="assets/img/civil3.jpg"
+                src="assets/img/portfolio/civil7.jfif"
                 className="img-fluid"
                 alt=""
               />

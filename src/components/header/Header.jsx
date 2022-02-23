@@ -25,7 +25,7 @@ export default function Header() {
           <div className="col-xl-9 d-flex align-items-center justify-content-lg-between">
             <a href="index.html" className="logo me-auto me-lg-0">
               <img loading="lazy" 
-                src="./assets/img/orozco1.png"
+                src="assets/img/orozco1.png"
                 alt=""
                 className="img-fluid"
               />

@@ -19,9 +19,9 @@ function App() {
   return (
     <>
     {/* <Topbar/> */}
-    <Header/>
-    <Hero1/>
-    {/* <Hero/> */}
+    {/* <Header/> */}
+    {/* <Hero1/> */}
+ <Hero/>  
     <About/>
     {/* <Tabs/> */}
     <Services/>

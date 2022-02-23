@@ -14,7 +14,7 @@ export default function Team() {
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div className="member">
-            <img loading="lazy"  src="assets/img/javier.jpeg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/3.png" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
                 <h4>Javier Orozco</h4>
@@ -32,7 +32,7 @@ export default function Team() {
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div className="member">
-            <img loading="lazy"  src="assets/img/carlos.jpg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/4.png" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
                 <h4>Carlos Orozco</h4>
@@ -50,7 +50,7 @@ export default function Team() {
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div className="member">
-            <img loading="lazy"  src="assets/img/diego.jpeg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/1.png" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
                 <h4>Diego Orozco</h4>
