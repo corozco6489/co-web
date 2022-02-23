@@ -1,15 +1,39 @@
 import React from "react";
+import emailjs from "emailjs-com";
+import { useRef } from "react";
+import { useState } from "react";
 export default function Contact() {
+  const formRef = useRef();
+
+  const [message, setMessage] = useState(false);
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    emailjs
+      .sendForm(
+        "service_176fbvr",
+        "template_va3o6dj",
+        formRef.current,
+        "user_ivqOhPFMk0nSTDqx8cZU3"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+          setMessage(true);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
+  };
   return (
     <section id="contact" className="contact">
       <div className="container">
         <div className="section-title">
-          <h2>Contact</h2>
+          <h2>Contacto</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-            fugiat sit in iste officiis commodi quidem hic quas.
+            Para contar con nuestros servicios puedes visitar nuestras redes
+            sociales o llenar el formulario con el motivo de su inquietud.
           </p>
         </div>
       </div>
@@ -32,39 +56,38 @@ export default function Contact() {
             <div className="info">
               <div className="address">
                 <i className="ri-map-pin-line"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Ubicación:</h4>
+                <p>Ambato - Ecuador</p>
               </div>
 
               <div className="email">
                 <i className="ri-mail-line"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>construccionesorozcoinfo@gmail.com</p>
               </div>
 
               <div className="phone">
                 <i className="ri-phone-line"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>Teléfono:</h4>
+                <p>0983592690 - 2470211</p>
               </div>
             </div>
           </div>
 
           <div className="col-lg-8 mt-5 mt-lg-0">
             <form
-              action="forms/contact.php"
-              method="post"
-              role="form"
+              ref={formRef}
+              onSubmit={handleSubmit}
               className="php-email-form"
             >
               <div className="row">
                 <div className="col-md-6 form-group">
                   <input
                     type="text"
-                    name="name"
+                    name="user_name"
                     className="form-control"
                     id="name"
-                    placeholder="Your Name"
+                    placeholder="Nombre"
                     required
                   />
                 </div>
@@ -72,9 +95,9 @@ export default function Contact() {
                   <input
                     type="email"
                     className="form-control"
-                    name="email"
+                    name="user_email"
                     id="email"
-                    placeholder="Your Email"
+                    placeholder="Email"
                     required
                   />
                 </div>
@@ -83,9 +106,9 @@ export default function Contact() {
                 <input
                   type="text"
                   className="form-control"
-                  name="subject"
+                  name="user_subject"
                   id="subject"
-                  placeholder="Subject"
+                  placeholder="Asunto"
                   required
                 />
               </div>
@@ -94,7 +117,7 @@ export default function Contact() {
                   className="form-control"
                   name="message"
                   rows="5"
-                  placeholder="Message"
+                  placeholder="Mensaje"
                   required
                 ></textarea>
               </div>
@@ -106,7 +129,9 @@ export default function Contact() {
                 </div>
               </div>
               <div className="text-center">
-                <button type="submit">Send Message</button>
+              <input type="submit" value="Enviar Mensaje" className="enviar" />
+              <br />
+            <p> {message && " Gracias...."}</p>
               </div>
             </form>
           </div>

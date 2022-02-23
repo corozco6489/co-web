@@ -1,124 +1,304 @@
-import React from 'react'
+import React from "react";
 
 export default function Services() {
   return (
     <section id="services" className="services">
-    <div className="container" data-aos="fade-up">
+      <div className="container" data-aos="fade-up">
+        <div className="section-header">
+          <h2>Lo que Ofrecemos</h2>
+          <p>
+            Somos gente joven que ofrecemos soluciones en proyectos de
+            Construccion , Telecomunicaciones y Electricidad
+          </p>
+        </div>
 
-      <div className="section-header">
-        <h2>Our Services</h2>
-        <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>
+        <div className="row gy-5">
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="200"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/diseño-arquitectonico.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/arquitecto.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Diseño Arquitectónico</h3>
+                </a>
+                <p>
+                  Diseño de Viviendas , Edificaciones Comerciales , Cubiertas
+                  Metálicas , Modelados 3D , Renders , Paseos Virtuales.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="300"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/estructural.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/constructor.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Cálculo Estructural</h3>
+                </a>
+                <p>
+                  Estructuras Metálicas , Estructuras Mixtas , Hormigon Armado
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="400"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/construcion.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/trabajador.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Construcción</h3>
+                </a>
+                <p>
+                  Construcción de Viviendas , Edificios , Redes de
+                  Alcantarillado , Redes de Agua Potable , Remodelaciones ,
+                  Cubiertas Metálicas.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="500"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/asesoramiento.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/ayuda.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Asesoramiento y Planificación</h3>
+                </a>
+                <p>
+                  Planimetrías , Permisos de construcción , presupuesto de obra
+                  , dirección ténica , aprobación de planos , líneas de fábrica
+                  , normas perticulares.
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="600"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/computer.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy" 
+                      src="assets/img/services/puesto-de-trabajo.png"
+                      alt=""
+                    />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Servicio Tecnico</h3>
+                </a>
+                <p>
+                  Mantenimiento Correctivo y Preventivo de Computadoras ,
+                  Instalacion de Sistemas Operativos (Linux , Windows){" "}
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="700"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/cctv-security-technology-with-lock-icon-digital-remix.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy" 
+                      src="assets/img/services/circuito-cerrado-de-television.png"
+                      alt=""
+                    />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Seguridad</h3>
+                </a>
+                <p>
+                  Sistemas de Seguridad (CCTV) , Biometricos , Cerraduras
+                  Electronicas{" "}
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="700"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/electrician-working.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/eco-house.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Instalaciones Electricas</h3>
+                </a>
+                <p>
+                  Instalaciones Electricas para casas residenciales y
+                  comerciales , Instalaciones de medidores electricos , Cambio
+                  de redes electricas , Mantenimiento preventivo y correctivo de
+                  instalaciones eléctricas
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="700"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/electronic.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/client.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Electronica y Telecomunicaciones</h3>
+                </a>
+                <p>
+                  Proyectos de Electronica Digital , Programacion , Redes ,
+                  Tarjetas de Desarrollo , Nube , Base de datos{" "}
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="col-xl-4 col-md-6"
+            data-aos="zoom-in"
+            data-aos-delay="700"
+          >
+            <div className="service-item">
+              <div className="img">
+                <img loading="lazy" 
+                  src="assets/img/services/tecnologias.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+              </div>
+              <div className="details position-relative">
+                <div className="icon">
+                  <i>
+                    <img loading="lazy"  src="assets/img/services/coding.png" alt="" />
+                  </i>
+                </div>
+                <a href="#" className="stretched-link">
+                  <h3>Tecnologias de la Información</h3>
+                </a>
+                <p>
+                  lenguajes de programacion , correo electronico , base de datos
+                  , manejo de sowtware de ingenierias{" "}
+                </p>
+                <a href="#" className="stretched-link"></a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div className="row gy-5">
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-1.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-activity"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Nesciunt Mete</h3>
-              </a>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-2.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-broadcast"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Eosle Commodi</h3>
-              </a>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-3.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-easel"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Ledo Markt</h3>
-              </a>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-4.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-bounding-box-circles"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Asperiores Commodit</h3>
-              </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="#" className="stretched-link"></a>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-5.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-calendar4-week"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Velit Doloremque</h3>
-              </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="#" className="stretched-link"></a>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
-          <div className="service-item">
-            <div className="img">
-              <img src="assets/img/services-6.jpg" className="img-fluid" alt=""/>
-            </div>
-            <div className="details position-relative">
-              <div className="icon">
-                <i className="bi bi-chat-square-text"></i>
-              </div>
-              <a href="#" className="stretched-link">
-                <h3>Dolori Architecto</h3>
-              </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="#" className="stretched-link"></a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section>  )
+    </section>
+  );
 }

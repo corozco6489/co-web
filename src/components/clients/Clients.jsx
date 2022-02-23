@@ -7,7 +7,7 @@ export default function Clients() {
       <div className="row no-gutters clients-wrap clearfix wow fadeInUp">
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-1.png"
               className="img-fluid"
               alt=""
@@ -17,7 +17,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-2.png"
               className="img-fluid"
               alt=""
@@ -27,7 +27,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-3.png"
               className="img-fluid"
               alt=""
@@ -37,7 +37,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-4.png"
               className="img-fluid"
               alt=""
@@ -47,7 +47,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-5.png"
               className="img-fluid"
               alt=""
@@ -57,7 +57,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-6.png"
               className="img-fluid"
               alt=""
@@ -67,7 +67,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-7.png"
               className="img-fluid"
               alt=""
@@ -77,7 +77,7 @@ export default function Clients() {
 
         <div className="col-lg-3 col-md-4 col-xs-6">
           <div className="client-logo">
-            <img
+            <img loading="lazy" 
               src="assets/img/clients/client-8.png"
               className="img-fluid"
               alt=""

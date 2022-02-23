@@ -5,45 +5,37 @@ export default function About() {
     <section id="about" className="about">
         <div className="container">
           <div className="section-title">
-            <h2>About Us</h2>
+            <h2>Nosotros</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+            Somos una empresa conformada por un equipo de gente joven, dinámica y actualizada, enfocados en atender los requerimientos que exige su organización. Contamos con ingenieros certificados servicios que ofrecemos. Te brindamos el servicio de proyectos CONSTRUCCIÓN DE TODO TIPO DE OBRAS CIVILES, ARQUITECTÓNICAS, ELÉCTRICAS Y ELECTRÓNICAS, TALES COMO CARRETERAS, VÍAS, CALLES, EDIFICIOS, GALPONES, INSTALACIONES INDUSTRIALES, URBANIZACIONES, VILLAS CASAS, LOTIZACIONES.
+            
+        
             </p>
           </div>
 
           <div className="row content">
             <div className="col-lg-6">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Enfocados en dar soluciones a la : 
               </p>
               <ul>
                 <li>
-                  <i className="ri-check-double-line"></i> Ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat
+                  <i className="ri-check-double-line"></i> Ingenieria Civil
                 </li>
                 <li>
-                  <i className="ri-check-double-line"></i> Duis aute irure dolor in
-                  reprehenderit in voluptate velit
+                  <i className="ri-check-double-line"></i> Ingenieria Electronica y Comunicaciones
                 </li>
                 <li>
-                  <i className="ri-check-double-line"></i> Ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat
+                  <i className="ri-check-double-line"></i> Instalaciones Electricas 
                 </li>
               </ul>
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0">
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum.
+              Estamos comprometidos en buscar la mejor alternativa para satisfacer sus requerimientos tecnicos y tecnológicos pues estamos convencidos de que las verdaderas soluciones exigen un exhaustivo trabajo creativo fundamentado en la juventud y experiencia.
+
               </p>
-              <a href="#" className="btn-learn-more">Learn More</a>
+              {/* <a href="#" className="btn-learn-more">Learn More</a> */}
             </div>
           </div>
         </div>

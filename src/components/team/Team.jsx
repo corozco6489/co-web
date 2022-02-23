@@ -6,19 +6,19 @@ export default function Team() {
     <div className="container" data-aos="fade-up">
 
       <div className="section-title">
-        <h2>Team</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <h2>Equipo de Trabajo</h2>
+        <p>Contamos con ingenieros certificados en los servicios que ofrecemos. Trabajando siempre con los más altos estándares de calidad, eficiencia  , garantizando al cliente eficiencia total en cuanto a nuestro desempeño.</p>
       </div>
 
       <div className="row justify-content-center">
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div className="member">
-            <img src="assets/img/javier.jpeg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/javier.jpeg" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Javier Orozco</h4>
+                <span>Ingeniero Civil</span>
               </div>
               <div className="social">
                 <a href=""><i className="bi bi-twitter"></i></a>
@@ -32,17 +32,17 @@ export default function Team() {
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div className="member">
-            <img src="assets/img/carlos.jpeg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/carlos.jpg" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Carlos Orozco</h4>
+                <span>Ingeniero Electrónico</span>
               </div>
               <div className="social">
-                <a href=""><i className="bi bi-twitter"></i></a>
-                <a href=""><i className="bi bi-facebook"></i></a>
-                <a href=""><i className="bi bi-instagram"></i></a>
-                <a href=""><i className="bi bi-linkedin"></i></a>
+                <a href="https://twitter.com/corozco6489" target="_blank"><i className="bi bi-twitter"></i></a>
+                <a href="https://carlosorozco.ml/" target="_blank"><i className="bi bi-globe"></i></a>
+                <a href="https://www.facebook.com/contruccionesorozco" target="_blank"><i className="bi bi-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/carlosorozco6489/" target="_blank"><i className="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -50,11 +50,11 @@ export default function Team() {
 
         <div className="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div className="member">
-            <img src="assets/img/diego.jpeg" className="img-fluid" alt=""/>
+            <img loading="lazy"  src="assets/img/diego.jpeg" className="img-fluid" alt=""/>
             <div className="member-info">
               <div className="member-info-content">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Diego Orozco</h4>
+                <span>Tecnólogo Electricista</span>
               </div>
               <div className="social">
                 <a href=""><i className="bi bi-twitter"></i></a>

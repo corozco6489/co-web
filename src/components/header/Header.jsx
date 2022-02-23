@@ -24,7 +24,7 @@ export default function Header() {
         <div className="row justify-content-center">
           <div className="col-xl-9 d-flex align-items-center justify-content-lg-between">
             <a href="index.html" className="logo me-auto me-lg-0">
-              <img
+              <img loading="lazy" 
                 src="./assets/img/orozco1.png"
                 alt=""
                 className="img-fluid"
@@ -35,40 +35,45 @@ export default function Header() {
               id="navbar"
               className={
                 showMobileMenu
-                  ? "navbar-mobile order-last order-lg-0"
+                  ? "navbar order-last order-lg-0 navbar-mobile "
                   : "navbar order-last order-lg-0"
               }
-              onClick={() => setshowMobileMenu(!showMobileMenu)}
             >
               <ul>
                 <li>
-                  <a className="nav-link scrollto active" href="#hero">
+                  <a className="nav-link scrollto active" href="#hero" >
                     Inicio
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link scrollto" href="#about">
+                  <a className="nav-link scrollto" href="#about"   >
                     Nosotros
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link scrollto" href="#services">
+                  <a className="nav-link scrollto" href="#services"  >
                     Servicios
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link scrollto" href="#portfolio">
+                  <a className="nav-link scrollto" href="#portfolio"  >
                     Trabajos
                   </a>
                 </li>
 
                 <li>
-                  <a className="nav-link scrollto" href="#contact">
+                  <a className="nav-link scrollto" href="#contact"  >
                     Contacto
                   </a>
                 </li>
               </ul>
-              <i className="bi bi-list mobile-nav-toggle"></i>
+              <i className="bi bi-list mobile-nav-toggle"
+               className={
+                showMobileMenu
+                  ? "bi bi-x mobile-nav-toggle"
+                  : "bi bi-list mobile-nav-toggle"
+              }
+              onClick={() => setshowMobileMenu(!showMobileMenu)}></i>
             </nav>
           </div>
         </div>

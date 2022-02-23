@@ -53,7 +53,7 @@ export default function Tabs() {
                 </p>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/tabs-1.jpg" alt="" className="img-fluid"/>
+                <img loading="lazy"  src="assets/img/tabs-1.jpg" alt="" className="img-fluid"/>
               </div>
             </div>
           </div>
@@ -78,7 +78,7 @@ export default function Tabs() {
                 </ul>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/tabs-2.jpg" alt="" className="img-fluid"/>
+                <img loading="lazy"  src="assets/img/tabs-2.jpg" alt="" className="img-fluid"/>
               </div>
             </div>
           </div>
@@ -102,7 +102,7 @@ export default function Tabs() {
                 </p>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/tabs-3.jpg" alt="" className="img-fluid"/>
+                <img loading="lazy"  src="assets/img/tabs-3.jpg" alt="" className="img-fluid"/>
               </div>
             </div>
           </div>
@@ -126,7 +126,7 @@ export default function Tabs() {
                 </ul>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/tabs-4.jpg" alt="" className="img-fluid"/>
+                <img loading="lazy"  src="assets/img/tabs-4.jpg" alt="" className="img-fluid"/>
               </div>
             </div>
           </div>

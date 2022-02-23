@@ -21,12 +21,11 @@ function App() {
     <Header/>
     <Hero/>
     <About/>
-    <Tabs/>
+    {/* <Tabs/> */}
     <Services/>
     <Cta/>
-    <Features/> 
     <Clients/>
-    <Counts/>
+    {/* <Counts/> */}
     <Portfolio/>
     <Team/>
     <Contact/>

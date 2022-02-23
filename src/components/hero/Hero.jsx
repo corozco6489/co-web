@@ -6,17 +6,17 @@ export default function Hero() {
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-xl-8">
-          <video id="video1" autoPlay muted className="video1 videos">
-            <source src="./assets/img/construction1.mp4" />
+          <video id="video1" autoPlay loop muted className="video1 videos">
+            <source src="assets/img/video.mp4" />
           </video>
 
-          <video id="video2" autoPlay muted className="video2 videos">
+          {/* <video id="video2" autoPlay muted className="video2 videos">
             <source src="./assets/img/computer6.mp4" />
           </video>
 
           <video id="video3" autoPlay muted className="video3 videos">
             <source src="./assets/img/construction.mp4" />
-          </video>
+          </video> */}
           <h3>Bienvenido a <strong>Orozco Construcciones </strong></h3>
 
          
@@ -25,6 +25,11 @@ export default function Hero() {
           <a href="#about" className="btn-get-started scrollto">Nosotros</a>
         </div>
       </div>
+      
     </div>
+    <a href="#about" className="abajo">
+      <i class='bx bx-chevrons-down' ></i>
+        </a>
+  
   </section>  )
 }
