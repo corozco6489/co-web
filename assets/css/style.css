@@ -1918,9 +1918,8 @@ section {
   position: fixed;
   top: 0;
   right: 0;
-  width: 25rem;
+  width: 22rem;
   background: rgb(245, 191, 35);
-  height: 100%;
   text-align: center;
   z-index: 1100;
   padding: 0 0.5rem;
@@ -1954,15 +1953,14 @@ section {
 }
 
 .contact-info .info {
-  padding: 0.5rem 0;
 
 }
 
 .contact-info .info i {
-  height: 4rem;
-  width: 4rem;
-  line-height: 3.5rem;
-  font-size: 2rem;
+  height: 3rem;
+  width: 3rem;
+  line-height: 3rem;
+  font-size: 1.5rem;
   background: var(--black);
   color: var(--white);
   cursor: pointer;
@@ -1980,7 +1978,7 @@ section {
   font-size: 1rem;
   color: var(--black);
   text-transform: capitalize;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
 }
 
 .contact-info .info p {
@@ -1996,9 +1994,9 @@ section {
 }
 
 .contact-info .share a {
-  height: 4rem;
-  width: 4rem;
-  line-height: 3.5rem;
+  height: 3rem;
+  width: 3rem;
+  line-height: 3rem;
   font-size: 1.5rem;
   background: var(--black);
   color: var(--white);
