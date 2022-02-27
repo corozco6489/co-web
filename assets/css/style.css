@@ -1715,19 +1715,42 @@ section {
 .tabs .nav-link i {
   padding-right: 15px;
   font-size: 48px;
+  color: #f5bf23;
 }
+.tabs .nav-link .carlos {
+
+  color: red;
+}
+
+
+
 .tabs .nav-link h4 {
   font-size: 18px;
   font-weight: 600;
   margin: 0;
+  color: #f5bf23;
+
 }
 .tabs .nav-link:hover {
   color: #f5bf23;
 }
+
 .tabs .nav-link.active {
   background: #f5bf23;
   color: #fff;
-  border-color: #f5bf23;
+}
+.tabs .nav-link.active * {
+  color: #fff;
+}
+
+.tabs .javier{
+  background: black;
+}
+.tabs .carlos{
+  background: #061e4a;
+}
+.tabs .diego{
+  background: #293846;
 }
 @media (max-width: 768px) {
   .tabs .nav-link i {
@@ -1745,8 +1768,9 @@ section {
   }
 }
 .tabs {
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url(../img/assets/img/logo1.png) fixed center center;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+    url(../img/assets/img/logo1.png) fixed center center; */
+  background: white;
   background-size: cover;
   padding: 120px 0;
 }
@@ -1764,7 +1788,7 @@ section {
 }
 .tabs .tab-pane ul li {
   padding-bottom: 10px;
-  color: white;
+  color: black;
 }
 .tabs .tab-pane ul i {
   font-size: 20px;
