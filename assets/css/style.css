@@ -11,6 +11,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  /* color: rgb(0, 74, 173); */
+
 }
 
 a {
@@ -1736,7 +1738,7 @@ section {
 }
 
 .tabs .nav-link.active {
-  background: #f5bf23;
+  background: rgb(245, 191, 35);
   color: #fff;
 }
 .tabs .nav-link.active * {
