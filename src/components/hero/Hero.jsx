@@ -10,13 +10,6 @@ export default function Hero() {
             <source src="assets/img/video.mp4" />
           </video>
 
-          {/* <video id="video2" autoPlay muted className="video2 videos">
-            <source src="./assets/img/computer6.mp4" />
-          </video>
-
-          <video id="video3" autoPlay muted className="video3 videos">
-            <source src="./assets/img/construction.mp4" />
-          </video> */}
           <h3>Bienvenido a <strong>Orozco Construcciones </strong></h3>
 
          

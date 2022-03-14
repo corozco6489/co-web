@@ -8,6 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+* {
+  box-sizing: border-box;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -34,10 +37,10 @@ h6 {
 html::-webkit-scrollbar {
   width: 1rem;
 }
-html::-webkit-scrollbar-track{
+html::-webkit-scrollbar-track {
   background: none;
 }
-html::-webkit-scrollbar-thumb{
+html::-webkit-scrollbar-thumb {
   background: #f5bf23;
 
   border-radius: 9rem;
@@ -405,9 +408,8 @@ html::-webkit-scrollbar-thumb{
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
   height: 100vh;
-  background-size: cover;
+  display:block;
   position: relative;
 }
 #hero:before {
@@ -531,24 +533,39 @@ html::-webkit-scrollbar-thumb{
 }
 
 .videos {
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-  position: fixed;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
+  position: absolute;
   z-index: -1;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-image: none;
 }
 .video1 {
-  opacity: 1;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left:50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translateX(-50%) translateY(-50%);
+
 }
-.video2 {
-  opacity: 0;
+
+
+@media screen and (max-aspect-ratio: 1920/1080) {
+  .videos > video {
+    height: 100%;
+  }
 }
-.video0 {
-  opacity: 0;
+@media screen and (min-aspect-ratio: 1920/1080) {
+  .videos > video {
+    width: 100%;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -622,14 +639,12 @@ section {
   bottom: 0;
   left: 0;
   text-align: justify;
-
 }
 .section-title p {
   margin-bottom: 0;
   color: #777777;
   font-size: 15px;
   text-align: justify;
-
 }
 
 /*--------------------------------------------------------------
@@ -638,7 +653,7 @@ section {
 .about {
   background: white;
 }
-.about .container .section-title h2{
+.about .container .section-title h2 {
   text-align: justify;
 }
 .about .content h3 {
@@ -668,7 +683,6 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
   text-align: justify;
-
 }
 .about .content .btn-learn-more {
   font-family: "Raleway", sans-serif;
@@ -691,8 +705,6 @@ section {
   color: #fff;
   text-decoration: none;
 }
-
-
 
 /*--------------------------------------------------------------
 # Featured Services Section
@@ -733,12 +745,10 @@ section {
   color: var(--color-primary);
 }
 
-
-
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
-.services{
+.services {
   background: white;
 }
 
@@ -754,14 +764,12 @@ section {
   margin: -100px 30px 0 30px;
   transition: all ease-in-out 0.3s;
   position: relative;
-  background:#f5bf23;
+  background: #f5bf23;
   text-align: center;
   border-radius: 8px;
 }
 .services .details:hover {
- 
-  background:white;
-
+  background: white;
 }
 .services .details .icon {
   margin: 0;
@@ -782,13 +790,13 @@ section {
   border: 6px solid white;
 }
 .services .details .icon i {
- width: 50px;
- height: 50px;
+  width: 50px;
+  height: 50px;
 }
-.services .details .icon i img{
+.services .details .icon i img {
   width: 100%;
   height: 100%;
- }
+}
 .services .details h3 {
   color: black;
   font-weight: 700;
@@ -1494,9 +1502,8 @@ section {
   font-size: 14px;
   padding: 30px 0;
   text-align: center;
-  
 }
-#footer .container{
+#footer .container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1504,7 +1511,7 @@ section {
 }
 #footer h3 {
   width: 300px;
-  height: 100px; 
+  height: 100px;
   text-align: center;
 }
 #footer h3 img {
@@ -1552,10 +1559,6 @@ section {
 #footer .credits a:hover {
   color: #f5bf23;
 }
-
-
-
-
 
 /*footer */
 
@@ -1621,7 +1624,8 @@ section {
   position: relative;
   padding-bottom: 12px;
 }
-#footer .footer-top h4::before, #footer .footer-top h4::after {
+#footer .footer-top h4::before,
+#footer .footer-top h4::after {
   content: "";
   position: absolute;
   left: 0;
@@ -1670,12 +1674,12 @@ section {
 #footer .footer-top .footer-newsletter {
   margin-bottom: 30px;
 }
-#footer .footer-top .footer-newsletter input[type=email] {
+#footer .footer-top .footer-newsletter input[type="email"] {
   border: 0;
   padding: 6px 8px;
   width: 65%;
 }
-#footer .footer-top .footer-newsletter input[type=submit] {
+#footer .footer-top .footer-newsletter input[type="submit"] {
   background: #f5bf23;
   border: 0;
   width: 35%;
@@ -1685,7 +1689,7 @@ section {
   transition: 0.3s;
   cursor: pointer;
 }
-#footer .footer-top .footer-newsletter input[type=submit]:hover {
+#footer .footer-top .footer-newsletter input[type="submit"]:hover {
   background: #f5bf23;
 }
 #footer .copyright {
@@ -1698,11 +1702,9 @@ section {
   color: #ddd;
 }
 
-
 /*--------------------------------------------------------------
 # Tabs
 --------------------------------------------------------------*/
-
 
 .tabs .nav-tabs {
   border: 0;
@@ -1749,14 +1751,12 @@ section {
   .tabs .nav-link i {
     font-size: 24px;
   }
-
-
 }
-.tabs{
+.tabs {
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-  url(../img/assets/img/logo1.png) fixed center center;
-background-size: cover;
-padding: 120px 0;
+    url(../img/assets/img/logo1.png) fixed center center;
+  background-size: cover;
+  padding: 120px 0;
 }
 .tabs .tab-content {
   margin-top: 30px;
@@ -1779,15 +1779,13 @@ padding: 120px 0;
   padding-right: 4px;
   color: #f5bf23;
 }
-.tabs .tab-pane p{
+.tabs .tab-pane p {
   color: white;
 }
 .tabs .tab-pane p:last-child {
   margin-bottom: 0;
   color: white;
 }
-
-
 
 .enviar {
   font-family: "Raleway", sans-serif;
@@ -1813,14 +1811,11 @@ padding: 120px 0;
   position: absolute;
   bottom: 10px;
   left: 48%;
- 
- 
 }
-.abajo i{
+.abajo i {
   width: 50px;
   animation: arrowBlink 2s infinite;
   font-size: 50px;
-
 }
 
 @keyframes arrowBlink {
@@ -1831,11 +1826,6 @@ padding: 120px 0;
 
 @media (max-width: 575px) {
   .abajo {
-  
     left: 42%;
-   
-   
   }
-
-  
 }
