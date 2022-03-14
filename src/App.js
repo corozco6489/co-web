@@ -15,21 +15,25 @@ import Tabs from "./components/tabs/Tabs";
 import Team from "./components/team/Team";
 import Topbar from "./components/topbar/Topbar";
 import Hero1 from "./components/hero1/Hero1";
+import Info from "./components/info/Info";
+import Slider from "./components/slider/Slider";
 function App() {
   return (
     <>
     {/* <Topbar/> */}
  <Header/> 
-    {/* <Hero1/> */}
- <Hero/>  
+ <Hero1/> 
+ {/* <Hero/>   */}
     <About/>
-    {/* <Tabs/> */}
+
     <Services/>
     <Cta/>
     <Clients/>
     {/* <Counts/> */}
     <Portfolio/>
     <Team/>
+    <Tabs/> 
+    {/* <Slider/> */}
     <Contact/>
     <Footer/>
     <Footer1/>

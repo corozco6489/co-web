@@ -353,7 +353,12 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../img/Orange and Black Modern Construction Banner (1).png")
+      fixed center center; */
+      background: #f9f9f9;
+
+  background-size: cover;
   padding: 60px 0;
 }
 .team .member {
@@ -426,3 +431,10 @@ section {
   bottom: 0;
   transition: bottom ease-in-out 0.4s;
 }
+/* .team .container .section-title h2{
+  color: #f5bf23;
+}
+
+.team .container .section-title p{
+  color: white;
+} */

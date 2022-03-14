@@ -19,7 +19,7 @@ export default function Hero() {
           </video> */}
           <h3>Bienvenido a <strong>Orozco Construcciones </strong></h3>
 
-         
+         <h1>Empresa de Construcción</h1>
           <h2>Te brindamos servicios en proyectos de Construción , Electrónica , Telecomunicaciones y Electricidad</h2>
          
           <a href="#about" className="btn-get-started scrollto">Nosotros</a>

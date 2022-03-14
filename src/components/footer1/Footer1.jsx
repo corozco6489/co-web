@@ -61,9 +61,9 @@ export default function Footer1() {
             </p>
 
             <div className="social-links">
-              <a href="https://www.facebook.com/contruccionesorozco" className="twitter" target="_blank"><i className="bi bi-twitter"></i></a>
+              <a href="https://twitter.com/corozco2022" className="twitter" target="_blank"><i className="bi bi-twitter"></i></a>
               <a href="https://www.facebook.com/contruccionesorozco" className="facebook" target="_blank"><i className="bi bi-facebook" ></i></a>
-              <a href="https://www.facebook.com/contruccionesorozco" className="instagram" target="_blank"><i className="bi bi-instagram"></i></a>
+              <a href="https://www.instagram.com/orozcoconstrucciones/" className="instagram" target="_blank"><i className="bi bi-instagram"></i></a>
               <a href="https://www.youtube.com/channel/UCw3M3Zkwgchdy1YGzt0TfGQ" className="instagram" target="_blank"><i className="bi bi-youtube"></i></a>
               <a href="https://www.linkedin.com/company/construccionesorozco" className="linkedin" target="_blank"><i className="bi bi-linkedin"></i></a>
             </div>
