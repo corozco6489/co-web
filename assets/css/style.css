@@ -647,7 +647,11 @@ section {
 # About Us
 --------------------------------------------------------------*/
 .about {
-  background: white;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+  url("../img/Background-01.png")
+     center center;
+background-size: cover;
+padding: 120px 0;
 }
 .about .container .section-title h2 {
   text-align: justify;
@@ -745,7 +749,8 @@ section {
 # Services Section
 --------------------------------------------------------------*/
 .services {
-  background: #f9f9f9;
+
+
 }
 
 .services .img {
@@ -1778,11 +1783,11 @@ padding: 120px 0;
   }
 }
 .tabs {
-  /* background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url(../img/assets/img/logo1.png) fixed center center; */
-  background: white;
-  background-size: cover;
-  padding: 120px 0;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+  url("../img/Background-01.png")
+     center center;
+background-size: cover;
+padding: 120px 0;
 }
 .tabs .tab-content {
   margin-top: 30px;
@@ -1944,7 +1949,12 @@ padding: 120px 0;
     height: 10%;
   }
 }
-
+/* .contact{
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+  url("../img/Background-01.png")
+     center center;
+background-size: cover;
+}  */
 
 .contact-info {
   position: fixed;
