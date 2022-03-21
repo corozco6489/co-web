@@ -561,7 +561,8 @@ overflow: hidden;
   min-width: 100%;
   min-height: 100%;
   transform: translateX(-50%) translateY(-50%);
-opacity: 1;}
+opacity: 1;
+}
 
 
 @media (min-width: 1024px) {
