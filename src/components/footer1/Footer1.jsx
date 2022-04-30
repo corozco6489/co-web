@@ -34,7 +34,7 @@ export default function Footer1() {
         <div className="row">
 
           <div className="col-lg-3 col-md-6 footer-info">
-            <p>Somos una empresa Ambateña brindando servicios de Construcción , Telecomunicaciones y Electricidad , trabajamos con profesionales jóvenes y responsables en todo tipo de proyectos.
+            <p>Somos una empresa Ambateña brindando servicios de Construcción , Electrónica y Electricidad , trabajamos con profesionales jóvenes y responsables en todo tipo de proyectos.
 
 </p>
           </div>
@@ -66,6 +66,8 @@ export default function Footer1() {
               <a href="https://www.instagram.com/orozcoconstrucciones/" className="instagram" target="_blank"><i className="bi bi-instagram"></i></a>
               <a href="https://www.youtube.com/channel/UCw3M3Zkwgchdy1YGzt0TfGQ" className="instagram" target="_blank"><i className="bi bi-youtube"></i></a>
               <a href="https://www.linkedin.com/company/construccionesorozco" className="linkedin" target="_blank"><i className="bi bi-linkedin"></i></a>
+              <a href="https://construccionesorozco.negocio.site/" className="google" target="_blank"><i className="bi bi-google"></i></a>
+
             </div>
 
           </div>

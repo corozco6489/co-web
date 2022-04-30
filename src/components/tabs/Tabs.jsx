@@ -5,13 +5,13 @@ export default function Tabs() {
     <section id="tabs" className="tabs ">
       <div className="container" data-aos="fade-up">
       <div className="section-title">
-          <h2>Servicios</h2>
-          <p>
+          <h2>Información</h2>
+          {/* <p>
             Contamos con ingenieros certificados en los servicios que ofrecemos.
             Trabajando siempre con los más altos estándares de calidad,
             eficiencia , garantizando al cliente eficiencia total en cuanto a
             nuestro desempeño.
-          </p>
+          </p> */}
         </div>
         <ul className="nav nav-tabs row d-flex justify-content-center">
           <li className="nav-item col-3">

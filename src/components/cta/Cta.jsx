@@ -9,7 +9,7 @@ export default function Cta() {
           <h3>Llamada a la acción</h3>
           <p>
 
-          Integramos para nuestros clientes la cadena completa de servicios de Ingeniería Civil , Electronica y Electricidad  en un proyecto coherente y coordinada.
+          Integramos para nuestros clientes la cadena completa de servicios de Ingeniería Civil, Electrónica y Electricidad en un proyecto coherente y coordinada.
 
           </p>
         </div>

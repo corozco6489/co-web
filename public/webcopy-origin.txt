@@ -1,0 +1,908 @@
+Uri: https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arimo/v25/P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\arimo\v25\P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v25/P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\arimo\v25\P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v25/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\arimo\v25\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v25/P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\arimo\v25\P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://test.sadiqfinancials.com/
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\index.htm
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/about.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\about.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/architecture-design.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\architecture-design.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/blog-detail.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\blog-detail.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/blog.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\blog.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/building-construction.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\building-construction.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/checkout.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\checkout.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/construction-planing.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\construction-planing.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/contact.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\contact.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/css/animate.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\animate.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/color-switcher-design.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\color-switcher-design.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/color-themes/default-theme.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\color-themes\default-theme.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/flaticon.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\flaticon.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/css/images/ui-icons_777620_256x240.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\images\ui-icons_777620_256x240.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/css/images/ui-icons_777777_256x240.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\images\ui-icons_777777_256x240.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/css/images/ui-icons_cc0000_256x240.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\images\ui-icons_cc0000_256x240.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/jquery.bootstrap-touchspin.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\jquery.bootstrap-touchspin.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/owl.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\owl.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/css/style.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\css\style.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/design-build.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\design-build.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/fonts/flaticon.eot
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/fonts/flaticon.svg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://test.sadiqfinancials.com/fonts/flaticon.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://test.sadiqfinancials.com/fonts/flaticon.woff
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://test.sadiqfinancials.com/fonts/flaticond41d.eot?
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfonte0a5.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfonte0a5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfonte0a5.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfonte0a5.svg
+Content Type: image/svg+xml
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfonte0a5.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfonte0a5.ttf
+Content Type: font/ttf
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfonte0a5.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfonte0a5.woff2
+Content Type: font/woff2
+
+Uri: https://test.sadiqfinancials.com/fonts/fontawesome-webfonte0a5.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\fontawesome-webfonte0a5.woff
+Content Type: font/woff
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://test.sadiqfinancials.com/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/green-building.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\green-building.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/house-renovation.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\house-renovation.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/images/background/1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/8.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\8.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/background/patern-1.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\patern-1.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/background/patern-2.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\background\patern-2.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/clients/1.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\clients\1.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/clients/2.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\clients\2.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/clients/3.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\clients\3.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/clients/4.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\clients\4.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/clients/5.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\clients\5.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/footer-logo.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/10.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/11.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\11.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/12.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/13.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\13.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/14.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\14.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/15.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\15.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/16.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\16.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/gallery/footer-thumb-6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\gallery\footer-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/icons/icon-select.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\icons\icon-select.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/icons/preloader.svg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\icons\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://test.sadiqfinancials.com/images/icons/tick.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\icons\tick.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/logo-small.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\logo-small.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/logo.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\logo.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/main-slider/image-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\main-slider\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/main-slider/image-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\main-slider\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/main-slider/image-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\main-slider\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/main-slider/image-6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\main-slider\image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/main-slider/image-7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\main-slider\image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/author-7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\author-7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/image-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/image-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/img-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/img-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/img-4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/img-5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/news-8.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\news-8.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/paypal.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\paypal.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/post-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\post-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/post-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\post-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/post-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\post-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/10.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\10.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/12.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\12.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/8.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\8.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/9.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\9.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/prod-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\prod-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/prod-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\prod-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/products/prod-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\products\prod-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-3.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-3.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-4.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-4.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-5.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-5.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-6.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-6.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/services-7.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\services-7.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/success-1.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\success-1.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/success-2.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\success-2.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/team-1.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\team-1.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/resource/team-2.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\team-2.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/resource/team-3.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\team-3.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/resource/team-4.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\team-4.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/images/resource/testimonial.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/video-img.jpg
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\video-img.jpg
+Content Type: image/jpeg
+
+Uri: https://test.sadiqfinancials.com/images/resource/year.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\images\resource\year.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/index-2.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\index-2.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/index.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\index.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/interior-design.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\interior-design.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/js/appear.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\appear.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/color-settings.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\color-settings.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\jquery.bootstrap-touchspin.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/jquery.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/main-slider-script.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\main-slider-script.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/mixitup.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\mixitup.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/owl.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\owl.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/script.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/validate.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\validate.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/js/wow.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\js\wow.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/laminate-flooring.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\laminate-flooring.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/login.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\login.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/management-work.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\management-work.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/css/closedhand.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\css\closedhand.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/css/openhand.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\css\openhand.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/fonts/revicons/revicons90c6.eot?5510888
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\fonts\revicons\revicons90c6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/fonts/revicons/revicons90c6.svg?5510888
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\fonts\revicons\revicons90c6.svg
+Content Type: image/svg+xml
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/fonts/revicons/revicons90c6.ttf?5510888
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\fonts\revicons\revicons90c6.ttf
+Content Type: font/ttf
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/fonts/revicons/revicons90c6.woff?5510888
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\fonts\revicons\revicons90c6.woff
+Content Type: font/woff
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/plugins/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\plugins\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://test.sadiqfinancials.com/projects-detail.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\projects-detail.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/projects.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\projects.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/services.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\services.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/shop-single.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\shop-single.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/shop.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\shop.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/shoping-cart.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\shoping-cart.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/solutions-detail.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\solutions-detail.html
+Content Type: text/html
+
+Uri: https://test.sadiqfinancials.com/solutions.html
+File Name: C:\Downloaded Web Sites\test.sadiqfinancials.com\solutions.html
+Content Type: text/html
+

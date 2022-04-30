@@ -1,4 +1,3 @@
-
 import About from "./components/about/About";
 import Clients from "./components/clients/Clients";
 import Contact from "./components/contact/Contact";
@@ -17,28 +16,27 @@ import Topbar from "./components/topbar/Topbar";
 import Hero1 from "./components/hero1/Hero1";
 import Info from "./components/info/Info";
 import Slider from "./components/slider/Slider";
+import Main from "./components/main/Main";
+import Main1 from "./components/main1/Main1";
 function App() {
   return (
-    <>
-    {/* <Topbar/> */}
- <Header/> 
- <Hero1/> 
- {/* <Hero/>   */}
-    <About/>
+    <div className="page-wrapper">
+      {/* <Main />
+      <Main1 /> */}
+      <Hero/>
 
-    <Services/>
-    <Cta/>
-    <Clients/>
-    {/* <Counts/> */}
-    <Portfolio/>
-    <Team/>
-    <Tabs/> 
-    {/* <Slider/> */}
-    <Contact/>
-    <Footer/>
-    <Footer1/>
-   
-    </>
+      <About />
+
+      <Services />
+      <Cta />
+      <Clients />
+      <Portfolio />
+      <Team />
+      <Tabs />
+      <Contact />
+      <Footer />
+      <Footer1 />
+    </div>
   );
 }
 

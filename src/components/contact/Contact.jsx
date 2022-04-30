@@ -31,10 +31,10 @@ export default function Contact() {
       <div className="container">
         <div className="section-title">
           <h2>Contacto</h2>
-          <p>
+          {/* <p>
             Para contar con nuestros servicios puedes visitar nuestras redes
             sociales o llenar el formulario con el motivo de su inquietud.
-          </p>
+          </p> */}
         </div>
       </div>
 
@@ -69,7 +69,7 @@ export default function Contact() {
               <div className="phone">
                 <i className="ri-phone-line"></i>
                 <h4>Teléfono:</h4>
-                <p>0983592690 - 2470211</p>
+                <p>0983592690 - 0939979649 - (03)2470211</p>
               </div>
             </div>
           </div>

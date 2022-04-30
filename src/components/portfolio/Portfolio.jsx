@@ -3,10 +3,14 @@ import React from "react";
 export default function Portfolio() {
   return (
     <section id="portfolio" className="portfolio" data-aos="fade-up">
+     
       <div className="container">
-        <div className="section-header">
+        <div className="section-title">
           <h2>Trabajos Realizados</h2>
-          {/* <p>Non hic nulla eum consequatur maxime ut vero memo vero totam officiis pariatur eos dolorum sed fug dolorem est possimus esse quae repudiandae. Dolorem id enim officiis sunt deserunt esse soluta consequatur quaerat</p> */}
+          {/* <p>
+            Para contar con nuestros servicios puedes visitar nuestras redes
+            sociales o llenar el formulario con el motivo de su inquietud.
+          </p> */}
         </div>
       </div>
 
@@ -101,7 +105,7 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/portfolio/civil7.jfif"
+                src="assets/img/portfolio/civil10.jpg"
                 className="img-fluid"
                 alt=""
               />
@@ -113,12 +117,12 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/portfolio/civil2.jpg"
+                src="assets/img/portfolio/civil11.jpg"
                 className="img-fluid"
                 alt=""
               />
               <div className="portfolio-info">
-                <h4>Remodelación</h4>
+                <h4>Construcción</h4>
               </div>
             </div>
 
@@ -148,24 +152,24 @@ export default function Portfolio() {
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/portfolio/civil6.jpg"
+                src="assets/img/portfolio/civil8.jpg"
                 className="img-fluid"
                 alt=""
               />
               <div className="portfolio-info">
-                <h4>Remodelación</h4>
+                <h4>Construcción</h4>
               </div>
             </div>
 
             <div className="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 loading="lazy"
-                src="assets/img/portfolio/civil7.jfif"
+                src="assets/img/portfolio/civil14.jpg"
                 className="img-fluid"
                 alt=""
               />
               <div className="portfolio-info">
-                <h4>Mantenimiento</h4>
+                <h4>Cubierta Metálica</h4>
               </div>
             </div>
           </div>

@@ -4,13 +4,27 @@ export default function Services() {
   return (
     <section id="services" className="services">
       <div className="container" data-aos="fade-up">
-        <div className="section-header">
+        {/* <div className="section-header">
           <h2>Lo que Ofrecemos</h2>
           <p>
             Somos gente joven que ofrecemos soluciones en proyectos de
             Construccion , Telecomunicaciones y Electricidad
           </p>
+        </div> */}
+
+        <div className="container">
+        <div className="section-title">
+          <h2>Servicios</h2>
+          {/* <p>
+            Para contar con nuestros servicios puedes visitar nuestras redes
+            sociales o llenar el formulario con el motivo de su inquietud.
+          </p> */}
         </div>
+      </div>
+        
+        
+
+
 
         <div className="row gy-5">
           <div

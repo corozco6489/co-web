@@ -39,7 +39,7 @@ export default function Team() {
                   >
                     <i className="bi bi-twitter"></i>
                   </a>
-                  <a href="https://javierorozco.ml/" target="_blank">
+                  <a href="https://orozcocarlos.github.io/" target="_blank">
                     <i className="bi bi-globe"></i>
                   </a>
                   <a
@@ -80,7 +80,7 @@ export default function Team() {
                   <a href="https://twitter.com/corozco6489" target="_blank">
                     <i className="bi bi-twitter"></i>
                   </a>
-                  <a href="https://carlosorozco.ml/" target="_blank">
+                  <a href="https://orozcocarlos.github.io/" target="_blank">
                     <i className="bi bi-globe"></i>
                   </a>
                   <a
@@ -121,7 +121,7 @@ export default function Team() {
                   <a href="https://twitter.com/corozco6489" target="_blank">
                     <i className="bi bi-twitter"></i>
                   </a>
-                  <a href="https://carlosorozco.ml/" target="_blank">
+                  <a href="https://orozcocarlos.github.io/" target="_blank">
                     <i className="bi bi-globe"></i>
                   </a>
                   <a
