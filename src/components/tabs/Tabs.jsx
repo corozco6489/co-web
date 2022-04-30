@@ -20,7 +20,7 @@ export default function Tabs() {
               data-bs-toggle="tab"
               data-bs-target="#tab-1"
             >
-              <i class="bi bi-cone-striped"></i>
+              <i class="bi bi-house-door-fill"></i>
               <h4 className="d-none d-lg-block">Javier Orozco</h4>
             </a>
           </li>

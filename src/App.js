@@ -23,6 +23,7 @@ function App() {
     <div className="page-wrapper">
       {/* <Main />
       <Main1 /> */}
+      <Header/>
       <Hero/>
 
       <About />
